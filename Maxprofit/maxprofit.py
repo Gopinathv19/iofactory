@@ -1,7 +1,7 @@
 list1 = [0] * 3
 time = [5, 4, 10]
 cost = [1500, 1000, 3000]
-inputTime = 7  
+inputTime = int(input("Enter the available time: "))
 king = []  
 ans = []  
 def findMax(ind, currentTime, profit, l):
