@@ -1,3 +1,16 @@
+#dependencies for this project is 
+
+
+
+npm install react-router-dom
+
+npm i react-responsive-carousel
+
+npm i react-loading-skeleton
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
